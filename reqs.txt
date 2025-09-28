@@ -1,0 +1,10 @@
+xdg-desktop-portal-hyprland
+xdg-desktop-portal
+qt5-wayland
+qt6-wayland
+noto-fonts
+swww
+dolphin
+xwaylandvideobridge
+
+wl-clipboard
