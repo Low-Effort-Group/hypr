@@ -13,7 +13,7 @@ case $1 in
   brightnessctl set $2%- >/dev/null
   ;;
 *)
-  echo -e "Usage:\n $0 {raise|lower}"
+  echo -e "Usage:\n $0 {raise|lower} <percentage>"
   exit 1
   ;;
 esac
